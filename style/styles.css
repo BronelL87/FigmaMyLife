@@ -1,0 +1,25 @@
+.bgRed {
+    background-color: rgb(164, 5, 5);
+}
+.bgOrange {
+    background-color: rgb(208, 139, 11);
+}
+
+.main {
+    width: 750px;
+    font-size: 35px;
+}
+
+.zuko {
+    width: 650px;
+    height: 500px;
+}
+
+.h1Size {
+    font-size: 50px;
+}
+.fLogo {
+    width: 60px;
+    height: 60px;
+    position: relative; left: -138%;
+}
